@@ -1,0 +1,15 @@
+.mainDiv {
+  border: 2px solid black;
+  color: blue;
+  margin-top: 20px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: black;
+}
+
+li {
+  list-style: none;
+}
